@@ -4,12 +4,12 @@ This repository aims to list available tools and scripts that we developpe and u
 This initiative cames to life during a diner-chat at the GGMM2023
 
 ## Drug Design
-- screening protocol woth autodock-GPU and SMINA
+- [screening protocol woth autodock-GPU and SMINA](https://github.com/tubiana/screening_protocol)
 ## Molecular Duynamic Simulation
-- clustering of molecular dynamic trajectory :
-- TTClust: Gromacs Simulation Protocol with ligand parametrization : 
+- [TTClust](https://github.com/tubiana/TTClust): clustering of molecular dynamic trajectory :
+- [Gromacs Simulation Protocol with ligand parametrization](https://github.com/tubiana/protocolGromacs) : 
 ## CryoEM
-- RSPFilter
-- mrcCleaner
+- [RSPFilter](https://github.com/tubiana/RSPFilter)
+- [mrcCleaner](https://github.com/tubiana/MRCcleaner)
 ## Visualisation
-- pymol (open source version) tutorial installation (Mac/Windows/Linux)
+- https://tubiana.me/how-to-install-and-compile-pymol-windows-linux-mac/
